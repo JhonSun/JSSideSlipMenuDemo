@@ -1,0 +1,3 @@
+使用说明： 
+1、创建一个viewcontroller继承JSMenuViewController。
+2、将要切换的viewController放到viewControllers里面
